@@ -1,3 +1,10 @@
+Another rotary encoder controller for Raspberry, based on:
+https://github.com/whofferbert/rpi-midi-rotary-encoder
+I adapted the code to use in a raspberry pi to control a Sunvox synth with 4 rotary encoders. rotary_encoder_nirea.py has the working version, with some bugs,
+rotary_encoder_nireV2.py is a improved version of rotary_encoder_nirea.py (basically I tried to clean a bit of code and do some refractor). rotary_encoder.py is the original code by William Hofferbert
+
+here the original readme by William Hofferbert:
+
 # rpi-midi-rotary-encoder
 
 rotary_encoder.py
